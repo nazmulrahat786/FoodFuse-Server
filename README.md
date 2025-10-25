@@ -7,7 +7,7 @@ The FoodFuse server is built using Node.js and Express.js, connected to a MongoD
 Live Server
 You can access the deployed backend API at: 
 https://food-server-chi.vercel.app/
-
+ 
 Features-
 RESTful API endpoints for managing food donations and requests 
 User authentication via Firebase tokens
