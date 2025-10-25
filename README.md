@@ -9,7 +9,7 @@ You can access the deployed backend API at:
 https://food-server-chi.vercel.app/
 
 Features-
-RESTful API endpoints for managing food donations and requests
+RESTful API endpoints for managing food donations and requests 
 User authentication via Firebase tokens
 CRUD operations for food listings
 Protected routes to secure sensitive operations
