@@ -5,7 +5,7 @@ Overview
 The FoodFuse server is built using Node.js and Express.js, connected to a MongoDB database with Mongoose. It uses Firebase Authentication for secure user login and CORS middleware to handle cross-origin requests from the frontend.
 
 Live Server
-You can access the deployed backend API at:
+You can access the deployed backend API at: 
 https://food-server-chi.vercel.app/
 
 Features-
