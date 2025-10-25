@@ -13,7 +13,7 @@ RESTful API endpoints for managing food donations and requests
 User authentication via Firebase tokens
 CRUD operations for food listings
 Protected routes to secure sensitive operations
-CORS enabled for cross-origin access from the frontend
+CORS enabled for cross-origin access from the frontend 
 
 Technologies-
 Node.js
