@@ -15,7 +15,7 @@ CRUD operations for food listings
 Protected routes to secure sensitive operations
 CORS enabled for cross-origin access from the frontend  
 
-Technologies-
+Technologies- 
 Node.js
 Express.js
 MongoDB with Mongoose
